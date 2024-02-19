@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // backgroundColor: Colors.black,
       // appBar: AppBar(),
       body:  SafeArea(bottom: false,child: WebView(
-        initialUrl: "https://google.com/",
+        initialUrl: "https://youtube.com/",
         javascriptMode: JavascriptMode.unrestricted,
       ))
     );
