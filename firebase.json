@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "mswebapp",
     "public": "public",
     "ignore": [
       "firebase.json",
